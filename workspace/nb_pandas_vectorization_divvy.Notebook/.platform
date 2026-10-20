@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Notebook",
+    "displayName": "nb_pandas_vectorization_divvy"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "2df9aab7-3479-b2bd-44ab-c5b970ae1a45"
+  }
+}

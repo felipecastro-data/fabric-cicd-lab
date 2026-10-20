@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Lakehouse",
+    "displayName": "lh_divvy_bench"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "f384c708-daf2-b041-4c38-4858ea4fef77"
+  }
+}
